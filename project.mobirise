@@ -13,15 +13,15 @@
         "warningColor": "#C1C1C1",
         "dangerColor": "#444444",
         "mainFont": "Josefin Sans",
-        "display1Font": "Josefin Sans",
+        "display1Font": "Roboto",
         "display1Size": 3,
-        "display2Font": "Josefin Sans",
+        "display2Font": "Roboto",
         "display2Size": 2.25,
-        "display5Font": "Cormorant Upright",
+        "display5Font": "Roboto",
         "display5Size": 1.8,
-        "display7Font": "Cormorant Upright",
+        "display7Font": "Roboto",
         "display7Size": 1.3,
-        "display4Font": "Cormorant Upright",
+        "display4Font": "Roboto",
         "display4Size": 1.2,
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
@@ -105,7 +105,7 @@
               }
             },
             ".mbr-section-title, .underline": {
-              "color": "#444444"
+              "color": "#f5aeb5"
             },
             ".mbr-section-subtitle,.mbr-section-btn B": {
               "color": "#ffffff"
