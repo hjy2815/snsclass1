@@ -963,6 +963,33 @@ body {
     height: auto;
   }
 }
+.cid-qSX2JvA1nO {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #afc9f9;
+  transition: background-color 0.3s ease-in-out;
+}
+.cid-qSX2JvA1nO:hover {
+  background-color: #ffbc00;
+}
+.cid-qSX2JvA1nO .mbr-section-title {
+  margin: 0;
+}
+.cid-qSX2JvA1nO .card-wrapper {
+  z-index: 3;
+}
+.cid-qSX2JvA1nO .full-link {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 0;
+  z-index: 2;
+}
+.cid-qSX2JvA1nO .popup-btn.card-wrapper {
+  z-index: 1 !important;
+}
 .cid-qLv5l6ZiSC .nav-item:focus,
 .cid-qLv5l6ZiSC .nav-link:focus {
   outline: none;
